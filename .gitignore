@@ -1,0 +1,15 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# Large datasets
+data/*.csv
+
+# Trained models
+models/*.pkl
+models/*.joblib
+
+# Python cache
+*.pyc
